@@ -42,7 +42,7 @@ function App() {
             data-aos="fade-right"
             data-aos-duration="1000"
           >
-            Happy Sweet Seventeen Fella ❤️
+            Happy Birthday Fella Babyyy ❤️
           </h1>
           <p
             className="text-sm lg:text-base lg:w-[40%]"
